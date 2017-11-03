@@ -1,0 +1,29 @@
+body{
+  margin-top: 60px;
+  background: linear-gradient(to bottom, #8fbcd6 0%, #c2edef 100%);
+}
+
+
+.heading{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 80px;
+  color: #04457c;
+}
+
+.subheading{
+  font-family: 'Indie Flower', cursive;
+}
+
+.body{
+  text-align: center
+}
+
+//timeline
+.container{
+  position: relative;
+  left: 200px;
+}
+
+.footer{
+  text-align: center
+}
